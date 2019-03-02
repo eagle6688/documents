@@ -32,6 +32,7 @@ create table if not exists payment
    medium               smallint,
    time                 datetime,
    description          varchar(400),
+   creatorid            int default 0,
    created              datetime default CURRENT_TIMESTAMP,
    updated              datetime default CURRENT_TIMESTAMP,
    deleted              bit default 0,
@@ -57,3 +58,7 @@ create table if not exists shopping
    channel              smallint,
    primary key (paymentid)
 ) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
+
+/*Add field 'creatorid' in payment table*/
+alter table payment add column creatorid int default 0;
+update payment set creatorid = 1 where deleted = 0;
