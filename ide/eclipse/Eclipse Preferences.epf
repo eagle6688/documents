@@ -1,10 +1,10 @@
-#Tue Apr 09 13:07:55 CST 2019
+#Sat Apr 13 13:28:41 CST 2019
 \!/=
-/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=9
+/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=13
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/month=3
-/configuration/com.genuitec.eclipse.monitor/ideused=4
-/configuration/com.genuitec.eclipse.startup/features=[{"launchCount"\:25,"id"\:"com.genuitec.eclipse.theming.designer.feature","version"\:"1.11.0.201810241355"},{"launchCount"\:25,"id"\:"com.genuitec.eclipse.theming.feature","version"\:"1.11.0.201810241355"}]
-/configuration/com.genuitec.eclipse.startup/launchCount=25
+/configuration/com.genuitec.eclipse.monitor/ideused=8
+/configuration/com.genuitec.eclipse.startup/features=[{"launchCount"\:35,"id"\:"com.genuitec.eclipse.theming.designer.feature","version"\:"1.11.0.201810241355"},{"launchCount"\:35,"id"\:"com.genuitec.eclipse.theming.feature","version"\:"1.11.0.201810241355"}]
+/configuration/com.genuitec.eclipse.startup/launchCount=35
 /configuration/com.genuitec.eclipse.startup/welcomeFlowVersionShown=3
 /configuration/com.genuitec.eclipse.theming.ui/applyBackground=false
 /configuration/com.genuitec.eclipse.theming.ui/codemix.announce.notice.displayed=1554277925872
@@ -12,7 +12,7 @@
 /configuration/com.genuitec.eclipse.theming.ui/iconcolormode=primary
 /configuration/com.genuitec.eclipse.theming.ui/lastConfiguration=1544087043538
 /configuration/com.genuitec.eclipse.theming.ui/workbench.theme=Dark Gray
-/configuration/com.genuitec.eclipse.webclipse.evergreen/devstyle.manifest.check.timestamp=1554776315398
+/configuration/com.genuitec.eclipse.webclipse.evergreen/devstyle.manifest.check.timestamp=1555121709975
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.cache={"updates"\:{"release-version"\:"1.11.0.201903292252","eclipse-version"\:"[4.5.0,5.0.0)","release-notes"\:{"id"\:"ci20190313","delivery-log-url"\:"https\:\\/\\/www.genuitec.com\\/products\\/devstyle\\/deliverylog\\/","release-label"\:"CI 2019.3.13","updates"\:[{"heading"\:"DevStyle and Mojave Dark","message"\:"If you are running on macOS with Mojave, you now will automatically get dark window trim and menus\! Lots of other Mac fixes have gone in to clean up the theme consistency as well.","bullet"\:{"padding"\:"tiny","overlayicon"\:"ionicons\:ios-moon","color"\:"blue","overlayscale"\:"xlarge","icon"\:"fontawesome\:square","scale"\:"full","type"\:"overlayed","overlaycolor"\:"black","size"\:"32x32","position"\:"center"},"show-if"\:{"bundles"\:["com.genuitec.eclipse.theming.ui"]}},{"heading"\:"Theming Improvements","message"\:"Want to use regular Eclipse icons? DevStyle now supports it\! That and lots of other requests reported by our users have been addressed from HiDPI Trees on 4.10+ to improved Text box colors, and fixes for 2018-12 and 2019-03.","bullet"\:{"padding"\:"tiny","overlayicon"\:"ionicons\:ios-moon","color"\:"blue","overlayscale"\:"xlarge","icon"\:"fontawesome\:square","scale"\:"full","type"\:"overlayed","overlaycolor"\:"black","size"\:"32x32","position"\:"center"},"show-if"\:{"bundles"\:["com.genuitec.eclipse.theming.ui"]}}]},"eclipse-roots"\:[{"id"\:"com.genuitec.eclipse.theming.feature.feature.group","version"\:"1.11.0.201903292252"},{"id"\:"com.genuitec.eclipse.theming.designer.feature.feature.group","version"\:"1.11.0.201903292252"}],"binary-roots"\:[],"repository-url"\:"http\:\\/\\/downloads.genuitec.com\\/downloads\\/products\\/devstyle\\/updates\\/ds20190401","check-interval"\:28800000,"notify-updated"\:14400000},"notifications"\:[],"notifications2"\:[]}
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.etag="5ca1cc5d-6c5"
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.modified.date=Mon, 01 Apr 2019 08\:31\:25 GMT
@@ -367,14 +367,14 @@
 /instance/com.dubture.twig.ui/editorColorVariable=\#79ABFF | null | null | null | null | null
 /instance/com.dubture.twig.ui/editorStmtColorBoundarymaker=\#D8D8D8 | null | null | null | null | null
 /instance/com.dubture.twig.ui/overriddenByCSS=,editorColorHeredoc,editorColorPhpdoc,codeStyleNormal,editorColorComment,editorColorTask,editorColorVariable,editorBlocknameColor,editorColorBoundarymaker,editorColorPHPDocComment,editorColorString,editorStmtColorBoundarymaker,editorColorKeyword,editorColorLineComment,editorColorNumber,
-/instance/com.genuitec.eclipse.monitor/last.upload.time=1554714602308
+/instance/com.genuitec.eclipse.monitor/last.upload.time=1555063670296
 /instance/com.genuitec.eclipse.theming.ui/applyBackground=false
 /instance/com.genuitec.eclipse.theming.ui/approved.defs.file.last.changed.time=1552086199000
 /instance/com.genuitec.eclipse.theming.ui/codemix.dont.show.upsell.until=1546419860671
 /instance/com.genuitec.eclipse.theming.ui/configurationInstallLocation=/D\:/Program Files/eclipse/
 /instance/com.genuitec.eclipse.theming.ui/elearning.dont.show.until=1555314725133
 /instance/com.genuitec.eclipse.theming.ui/iconcolormode=primary
-/instance/com.genuitec.eclipse.theming.ui/last.download.attempt.time=1554786417297
+/instance/com.genuitec.eclipse.theming.ui/last.download.attempt.time=1555121709975
 /instance/com.genuitec.eclipse.theming.ui/lastConfiguration=1544087043538
 /instance/com.genuitec.eclipse.theming.ui/newinstall=false
 /instance/com.genuitec.eclipse.theming.ui/showWelcomeDialog=false
@@ -1486,7 +1486,7 @@
 /instance/org.eclipse.debug.ui/overriddenByCSS=,org.eclipse.debug.ui.Color,org.eclipse.debug.ui.MemoryHistoryKnownColor,org.eclipse.debug.ui.MemoryHistoryUnknownColor,org.eclipse.debug.ui.PREF_CHANGED_VALUE_BACKGROUND,org.eclipse.debug.ui.changedDebugElement,org.eclipse.debug.ui.consoleBackground,org.eclipse.debug.ui.errorColor,org.eclipse.debug.ui.inColor,org.eclipse.debug.ui.outColor,
 /instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
 /instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.VariableView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.VariableView">\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="PRESENTATION_SHOW_LOGICAL_STRUCTURES"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
-/instance/org.eclipse.debug.ui/preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
+/instance/org.eclipse.debug.ui/preferredDetailPanes=DefaultDetailPane,org.eclipse.jdt.debug.ui.JAVA_VARIABLE_DETAIL_PANE_VARIABLES\:org.eclipse.jdt.debug.ui.JAVA_VARIABLE_DETAIL_PANE_VARIABLES|DefaultDetailPane\:DefaultDetailPane|
 /instance/org.eclipse.debug.ui/preferredTargets=default\:default|
 /instance/org.eclipse.dltk.ruby.ui/DLTK_comment_task_tag=204,223,50
 /instance/org.eclipse.dltk.ruby.ui/DLTK_comment_task_tag_bold=false
@@ -1726,7 +1726,7 @@
 /instance/org.eclipse.egit.ui/BranchProjectTracker__D\:\\Work\\eservice-commercial\\Commercial\\commercial.cornjob\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>/</project>\r\n</projects>
 /instance/org.eclipse.egit.ui/BranchProjectTracker__D\:\\Work\\eservice-commercial\\Commercial\\commercial.ms.usercustomerrelation\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>/</project>\r\n</projects>
 /instance/org.eclipse.egit.ui/BranchProjectTracker__D\:\\Work\\eservice-commercial\\Commercial\\commercial.web\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>/</project>\r\n</projects>
-/instance/org.eclipse.egit.ui/commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Init</message>\r\n<message>Update User.java</message>\r\n<message>Update</message>\r\n<message>Add C-NetApp-RefreshToken and C-NetApp-AccessToken</message>\r\n<message>Add ProductForeignIdCacheFactoryImpl and ProductForeignIdCacheFactory</message>\r\n<message>Rename ProductForeignIdRedisCacheImpl and ProductForeignIdRedisCache</message>\r\n<message>Update Product</message>\r\n<message>Merge branch &apos;release/r20181219&apos;&\#x0A;&\#x0A;\# Conflicts\:&\#x0A;\#&\#x09;src/main/java/commercial/cornjob/service/impl/SyncProductServiceImpl.java&\#x0A;</message>\r\n<message>Upgrade to version 4.2.0</message>\r\n<message>Upgrade to version 4.2</message>\r\n</messages>
+/instance/org.eclipse.egit.ui/commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Update</message>\r\n<message>Update CatalogDao</message>\r\n<message>Update Catalog</message>\r\n<message>Fix aop issues.</message>\r\n<message>Update CatalogServiceImpl</message>\r\n<message>Update CatalogClass</message>\r\n<message>Remove useless codes.</message>\r\n<message>Update comment for ProductStatistic</message>\r\n<message>Update statistic</message>\r\n<message>Add ProductStatistic</message>\r\n</messages>
 /instance/org.eclipse.egit.ui/resourcehistory_graph_split=500,500
 /instance/org.eclipse.egit.ui/resourcehistory_rev_split=700,300
 /instance/org.eclipse.egit.ui/show_running_launch_on_checkout_warning=false
@@ -2121,7 +2121,7 @@
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=194,0,0
 /instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.textProposalCategory\u0000
 /instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=org.junit.Assert.*;org.junit.Assume.*;org.junit.jupiter.api.Assertions.*;org.junit.jupiter.api.Assumptions.*;org.junit.jupiter.api.DynamicContainer.*;org.junit.jupiter.api.DynamicTest.*
-/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Collection"><rhs name\="java.util.HashSet"/><rhs name\="java.util.LinkedHashSet"/><rhs name\="java.util.ArrayList"/><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.HashSet"/><rhs name\="java.util.LinkedHashSet"/><rhs name\="java.util.ArrayList"/><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.LinkedHashMap"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.HashSet"/><rhs name\="java.util.LinkedHashSet"/></lhs><lhs name\="commercial.base.common.models.base.BaseResponse"><rhs name\="commercial.base.common.models.base.BaseResponse"/></lhs><lhs name\="commercial.base.cache.model.memory.MemoryEntry"><rhs name\="commercial.base.cache.model.memory.MemoryList"/></lhs><lhs name\="commercial.base.cache.model.memory.MemoryList"><rhs name\="commercial.base.cache.model.memory.MemoryList"/></lhs></history>
+/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Collection"><rhs name\="java.util.LinkedList"/><rhs name\="java.util.HashSet"/><rhs name\="java.util.LinkedHashSet"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.LinkedList"/><rhs name\="java.util.HashSet"/><rhs name\="java.util.LinkedHashSet"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.LinkedList"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.LinkedHashMap"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.HashSet"/><rhs name\="java.util.LinkedHashSet"/></lhs><lhs name\="commercial.base.common.models.base.BaseResponse"><rhs name\="commercial.base.common.models.base.BaseResponse"/></lhs><lhs name\="commercial.base.cache.model.memory.MemoryEntry"><rhs name\="commercial.base.cache.model.memory.MemoryList"/></lhs><lhs name\="commercial.base.cache.model.memory.MemoryList"><rhs name\="commercial.base.cache.model.memory.MemoryList"/></lhs><lhs name\="java.io.File"><rhs name\="java.io.File"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/></lhs></history>
 /instance/org.eclipse.jdt.ui/content_assist_number_of_computers=21
 /instance/org.eclipse.jdt.ui/content_assist_parameters_background=48,54,59
 /instance/org.eclipse.jdt.ui/content_assist_parameters_foreground=235,237,239
@@ -2631,7 +2631,7 @@
 /instance/org.eclipse.ui.workbench/PROPERTY_NAME=255,0,255
 /instance/org.eclipse.ui.workbench/PROPERTY_VALUE=242,0,255
 /instance/org.eclipse.ui.workbench/PSEUDO=89,179,179
-/instance/org.eclipse.ui.workbench/REMOTE_COMMANDS_VIEW_FONT=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/REMOTE_COMMANDS_VIEW_FONT=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/RESOLVED_COLOR=104,203,16
 /instance/org.eclipse.ui.workbench/SCRIPT_AREA_BORDER=227,113,75
 /instance/org.eclipse.ui.workbench/SELECTOR=89,179,179
@@ -2660,20 +2660,20 @@
 /instance/org.eclipse.ui.workbench/dtdTag=96,96,255
 /instance/org.eclipse.ui.workbench/dtdTagName=96,96,255
 /instance/org.eclipse.ui.workbench/entityReference=212,0,255
-/instance/org.eclipse.ui.workbench/org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
-/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.DetailPaneFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
-/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.MemoryViewTableFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.DetailPaneFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.MemoryViewTableFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.console.background=0,0,0
 /instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.console.stream.err=255,127,127
 /instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.console.stream.in=0,255,184
 /instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.console.stream.out=255,255,255
-/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.consoleFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
-/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.CommitMessageEditorFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
-/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.CommitMessageFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.consoleFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.CommitMessageEditorFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.CommitMessageFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffAddBackgroundColor=51,81,30
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffAddForegroundColor=235,237,239
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHeadlineBackgroundColor=25,29,31
-/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHeadlineFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHeadlineFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHeadlineForegroundColor=238,240,241
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHunkBackgroundColor=25,29,31
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHunkForegroundColor=241,242,244
@@ -2682,13 +2682,13 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.IgnoredResourceForegroundColor=157,167,175
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.UncommittedChangeBackgroundColor=25,29,31
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.UncommittedChangeForegroundColor=216,220,223
-/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
-/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.PropertiesFileMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.PropertiesFileMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.ColoredLabels.inherited=143,143,191
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.ColoredLabels.writeaccess_highlight=52,46,35
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.Javadoc.backgroundColor=48,54,59
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.Javadoc.foregroundColor=235,237,239
-/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.abstractMethodInvocationHighlighting=255,255,255
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.annotationElementReferenceHighlighting=255,255,255
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.annotationHighlighting=143,155,163
@@ -2699,7 +2699,7 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.content_assist_parameters_background=0,0,0
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.content_assist_parameters_foreground=255,255,255
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.deprecatedMemberHighlighting=255,255,255
-/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.enumHighlighting=247,173,123
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.fieldHighlighting=159,159,255
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.inheritedMethodInvocationHighlighting=255,255,255
@@ -2736,7 +2736,7 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.typeArgumentHighlighting=255,255,0
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.typeParameterHighlighting=247,173,123
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.typeVariableDeclarationHighlighting=247,173,123
-/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.mylyn.tasks.ui.colors.category.gradient.end=120,135,145
 /instance/org.eclipse.ui.workbench/org.eclipse.mylyn.tasks.ui.colors.category.gradient.start=73,83,90
 /instance/org.eclipse.ui.workbench/org.eclipse.mylyn.tasks.ui.colors.foreground.completed=110,124,135
@@ -2748,15 +2748,15 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.mylyn.tasks.ui.colors.foreground.today.completed=92,146,110
 /instance/org.eclipse.ui.workbench/org.eclipse.mylyn.tasks.ui.colors.foreground.today.scheduled=50,97,159
 /instance/org.eclipse.ui.workbench/org.eclipse.mylyn.tasks.ui.colors.incoming.background=11,13,14
-/instance/org.eclipse.ui.workbench/org.eclipse.mylyn.wikitext.ui.presentation.textFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.mylyn.wikitext.ui.presentation.textFont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.pde.genericeditor.extension.editor.color.attribute=196,138,114
 /instance/org.eclipse.ui.workbench/org.eclipse.pde.genericeditor.extension.editor.color.comment=93,134,75
 /instance/org.eclipse.ui.workbench/org.eclipse.pde.genericeditor.extension.editor.color.header=115,130,140
 /instance/org.eclipse.ui.workbench/org.eclipse.pde.genericeditor.extension.editor.color.quote=118,200,244
 /instance/org.eclipse.ui.workbench/org.eclipse.pde.genericeditor.extension.editor.color.tag=86,156,214
 /instance/org.eclipse.ui.workbench/org.eclipse.pde.genericeditor.extension.editor.color.text=207,212,216
-/instance/org.eclipse.ui.workbench/org.eclipse.pde.internal.ui.compare.ManifestContentMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
-/instance/org.eclipse.ui.workbench/org.eclipse.pde.internal.ui.compare.PluginContentMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.pde.internal.ui.compare.ManifestContentMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.pde.internal.ui.compare.PluginContentMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.search.ui.match.highlight=73,83,90
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands/>
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.editors.backgroundColor=0,0,0
@@ -2765,7 +2765,7 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.editors.foregroundColor=255,255,255
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.editors.lineNumberRulerColor=120,135,145
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.editors.printMarginColor=62,70,76
-/instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.internal.ui.compare.JavaMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.internal.ui.compare.JavaMergeViewer=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.ColoredLabels.counter=0,208,255
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.ColoredLabels.decorations=181,152,86
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.abstractMethodInvocationHighlighting=255,255,255
@@ -2780,7 +2780,7 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.content_assist_proposals_background=0,0,0
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.content_assist_proposals_foreground=255,255,255
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.deprecatedMemberHighlighting=255,255,255
-/instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.editors.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.editors.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.enumHighlighting=247,173,123
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.fieldHighlighting=159,159,255
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.inheritedMethodInvocationHighlighting=255,255,255
@@ -2816,14 +2816,15 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.typeArgumentHighlighting=255,255,0
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.typeParameterHighlighting=247,173,123
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.typeVariableDeclarationHighlighting=247,173,123
-/instance/org.eclipse.ui.workbench/org.eclipse.wst.sse.ui.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.wst.sse.ui.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/overriddenByCSS=,ACTIVE_HYPERLINK_COLOR,ATMARK_RULE,ATTRIBUTE_DELIM,ATTRIBUTE_NAME,ATTRIBUTE_OPERATOR,ATTRIBUTE_VALUE,CLASS,COMBINATOR,COMMENT,CONFLICTING_COLOR,CONTENT_ASSIST_BACKGROUND_COLOR,CONTENT_ASSIST_FOREGROUND_COLOR,COUNTER_COLOR,DECORATIONS_COLOR,ERROR,ERROR_COLOR,HYPERLINK_COLOR,ID,INCOMING_COLOR,MEDIA,MESSAGE_WARNING_COLOR,OUTGOING_COLOR,PROPERTY_NAME,PROPERTY_VALUE,PSEUDO,RESOLVED_COLOR,SCRIPT_AREA_BORDER,SELECTOR,STRING,UNIVERSAL,URI,cdataBorder,cdataText,commentBorder,commentText,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,declBoder,doctypeExternalId,doctypeExternalPubref,doctypeExtrenalSysref,doctypeName,dtdComment,dtdData,dtdDefault,dtdKeyword,dtdString,dtdSymbol,dtdTag,dtdTagName,entityReference,org.eclipse.debug.ui.console.background,org.eclipse.debug.ui.console.stream.err,org.eclipse.debug.ui.console.stream.in,org.eclipse.debug.ui.console.stream.out,org.eclipse.egit.ui.DiffAddBackgroundColor,org.eclipse.egit.ui.DiffAddForegroundColor,org.eclipse.egit.ui.DiffHeadlineBackgroundColor,org.eclipse.egit.ui.DiffHeadlineForegroundColor,org.eclipse.egit.ui.DiffHunkBackgroundColor,org.eclipse.egit.ui.DiffHunkForegroundColor,org.eclipse.egit.ui.DiffRemoveBackgroundColor,org.eclipse.egit.ui.DiffRemoveForegroundColor,org.eclipse.egit.ui.IgnoredResourceForegroundColor,org.eclipse.egit.ui.UncommittedChangeBackgroundColor,org.eclipse.egit.ui.UncommittedChangeForegroundColor,org.eclipse.jdt.ui.ColoredLabels.inherited,org.eclipse.jdt.ui.ColoredLabels.writeaccess_highlight,org.eclipse.jdt.ui.Javadoc.backgroundColor,org.eclipse.jdt.ui.Javadoc.foregroundColor,org.eclipse.jdt.ui.abstractMethodInvocationHighlighting,org.eclipse.jdt.ui.annotationElementReferenceHighlighting,org.eclipse.jdt.ui.annotationHighlighting,org.eclipse.jdt.ui.autoboxingHighlighting,org.eclipse.jdt.ui.classHighlighting,org.eclipse.jdt.ui.content_assist_completion_replacement_background,org.eclipse.jdt.ui.content_assist_completion_replacement_foreground,org.eclipse.jdt.ui.content_assist_parameters_background,org.eclipse.jdt.ui.content_assist_parameters_foreground,org.eclipse.jdt.ui.deprecatedMemberHighlighting,org.eclipse.jdt.ui.enumHighlighting,org.eclipse.jdt.ui.fieldHighlighting,org.eclipse.jdt.ui.inheritedMethodInvocationHighlighting,org.eclipse.jdt.ui.interfaceHighlighting,org.eclipse.jdt.ui.java_bracket,org.eclipse.jdt.ui.java_comment_task_tag,org.eclipse.jdt.ui.java_default,org.eclipse.jdt.ui.java_doc_default,org.eclipse.jdt.ui.java_doc_keyword,org.eclipse.jdt.ui.java_doc_link,org.eclipse.jdt.ui.java_doc_tag,org.eclipse.jdt.ui.java_keyword,org.eclipse.jdt.ui.java_keyword_return,org.eclipse.jdt.ui.java_multi_line_comment,org.eclipse.jdt.ui.java_operator,org.eclipse.jdt.ui.java_single_line_comment,org.eclipse.jdt.ui.java_string,org.eclipse.jdt.ui.localVariableDeclarationHighlighting,org.eclipse.jdt.ui.localVariableHighlighting,org.eclipse.jdt.ui.matchingBracketsColor,org.eclipse.jdt.ui.methodDeclarationHighlighting,org.eclipse.jdt.ui.methodDeclarationNameHighlighting,org.eclipse.jdt.ui.methodHighlighting,org.eclipse.jdt.ui.numberHighlighting,org.eclipse.jdt.ui.parameterVariableHighlighting,org.eclipse.jdt.ui.pf_coloring_argument,org.eclipse.jdt.ui.pf_coloring_assignment,org.eclipse.jdt.ui.pf_coloring_comment,org.eclipse.jdt.ui.pf_coloring_key,org.eclipse.jdt.ui.pf_coloring_value,org.eclipse.jdt.ui.staticFieldHighlighting,org.eclipse.jdt.ui.staticFinalFieldHighlighting,org.eclipse.jdt.ui.staticMethodInvocationHighlighting,org.eclipse.jdt.ui.typeArgumentHighlighting,org.eclipse.jdt.ui.typeParameterHighlighting,org.eclipse.jdt.ui.typeVariableDeclarationHighlighting,org.eclipse.mylyn.tasks.ui.colors.category.gradient.end,org.eclipse.mylyn.tasks.ui.colors.category.gradient.start,org.eclipse.mylyn.tasks.ui.colors.foreground.completed,org.eclipse.mylyn.tasks.ui.colors.foreground.overdue.for.others,org.eclipse.mylyn.tasks.ui.colors.foreground.past.due,org.eclipse.mylyn.tasks.ui.colors.foreground.past.scheduled,org.eclipse.mylyn.tasks.ui.colors.foreground.task.active,org.eclipse.mylyn.tasks.ui.colors.foreground.thisweek.scheduled,org.eclipse.mylyn.tasks.ui.colors.foreground.today.completed,org.eclipse.mylyn.tasks.ui.colors.foreground.today.scheduled,org.eclipse.mylyn.tasks.ui.colors.incoming.background,org.eclipse.pde.genericeditor.extension.editor.color.attribute,org.eclipse.pde.genericeditor.extension.editor.color.comment,org.eclipse.pde.genericeditor.extension.editor.color.header,org.eclipse.pde.genericeditor.extension.editor.color.quote,org.eclipse.pde.genericeditor.extension.editor.color.tag,org.eclipse.pde.genericeditor.extension.editor.color.text,org.eclipse.search.ui.match.highlight,org.eclipse.ui.editors.backgroundColor,org.eclipse.ui.editors.currentLineColor,org.eclipse.ui.editors.findScope,org.eclipse.ui.editors.foregroundColor,org.eclipse.ui.editors.lineNumberRulerColor,org.eclipse.ui.editors.printMarginColor,org.eclipse.wst.jsdt.ui.ColoredLabels.counter,org.eclipse.wst.jsdt.ui.ColoredLabels.decorations,org.eclipse.wst.jsdt.ui.abstractMethodInvocationHighlighting,org.eclipse.wst.jsdt.ui.annotationElementReferenceHighlighting,org.eclipse.wst.jsdt.ui.annotationHighlighting,org.eclipse.wst.jsdt.ui.autoboxingHighlighting,org.eclipse.wst.jsdt.ui.classHighlighting,org.eclipse.wst.jsdt.ui.content_assist_completion_replacement_background,org.eclipse.wst.jsdt.ui.content_assist_completion_replacement_foreground,org.eclipse.wst.jsdt.ui.content_assist_parameters_background,org.eclipse.wst.jsdt.ui.content_assist_parameters_foreground,org.eclipse.wst.jsdt.ui.content_assist_proposals_background,org.eclipse.wst.jsdt.ui.content_assist_proposals_foreground,org.eclipse.wst.jsdt.ui.deprecatedMemberHighlighting,org.eclipse.wst.jsdt.ui.enumHighlighting,org.eclipse.wst.jsdt.ui.fieldHighlighting,org.eclipse.wst.jsdt.ui.inheritedMethodInvocationHighlighting,org.eclipse.wst.jsdt.ui.interfaceHighlighting,org.eclipse.wst.jsdt.ui.java_bracket,org.eclipse.wst.jsdt.ui.java_comment_task_tag,org.eclipse.wst.jsdt.ui.java_default,org.eclipse.wst.jsdt.ui.java_doc_default,org.eclipse.wst.jsdt.ui.java_doc_keyword,org.eclipse.wst.jsdt.ui.java_doc_link,org.eclipse.wst.jsdt.ui.java_doc_tag,org.eclipse.wst.jsdt.ui.java_keyword,org.eclipse.wst.jsdt.ui.java_keyword_return,org.eclipse.wst.jsdt.ui.java_multi_line_comment,org.eclipse.wst.jsdt.ui.java_operator,org.eclipse.wst.jsdt.ui.java_single_line_comment,org.eclipse.wst.jsdt.ui.java_string,org.eclipse.wst.jsdt.ui.localVariableDeclarationHighlighting,org.eclipse.wst.jsdt.ui.localVariableHighlighting,org.eclipse.wst.jsdt.ui.matchingBracketsColor,org.eclipse.wst.jsdt.ui.methodDeclarationHighlighting,org.eclipse.wst.jsdt.ui.methodDeclarationNameHighlighting,org.eclipse.wst.jsdt.ui.methodHighlighting,org.eclipse.wst.jsdt.ui.parameterVariableHighlighting,org.eclipse.wst.jsdt.ui.pf_coloring_argument,org.eclipse.wst.jsdt.ui.pf_coloring_assignment,org.eclipse.wst.jsdt.ui.pf_coloring_comment,org.eclipse.wst.jsdt.ui.pf_coloring_key,org.eclipse.wst.jsdt.ui.pf_coloring_value,org.eclipse.wst.jsdt.ui.staticFieldHighlighting,org.eclipse.wst.jsdt.ui.staticFinalFieldHighlighting,org.eclipse.wst.jsdt.ui.staticMethodInvocationHighlighting,org.eclipse.wst.jsdt.ui.typeArgumentHighlighting,org.eclipse.wst.jsdt.ui.typeParameterHighlighting,org.eclipse.wst.jsdt.ui.typeVariableDeclarationHighlighting,piBorder,tagAttributeName,tagAttributeValue,tagBorder,tagName,
 /instance/org.eclipse.ui.workbench/piBorder=0,254,254
 /instance/org.eclipse.ui.workbench/tagAttributeName=255,0,255
 /instance/org.eclipse.ui.workbench/tagAttributeValue=212,0,255
 /instance/org.eclipse.ui.workbench/tagBorder=0,254,254
 /instance/org.eclipse.ui.workbench/tagName=89,179,179
-/instance/org.eclipse.ui.workbench/terminal.views.view.font.definition=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/terminal.views.view.font.definition=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+/instance/org.eclipse.ui/SHOW_MEMORY_MONITOR=true
 /instance/org.eclipse.ui/showIntro=false
 /instance/org.eclipse.wst.css.ui/ATMARK_RULE=\#FFFFFF | null | null | null | null | null
 /instance/org.eclipse.wst.css.ui/ATTRIBUTE_DELIM=\#FFFFFF | null | null | null | null | null
@@ -2891,7 +2892,7 @@
 /instance/org.eclipse.wst.jsdt.ui/java_operator=216,216,216
 /instance/org.eclipse.wst.jsdt.ui/java_single_line_comment=199,221,12
 /instance/org.eclipse.wst.jsdt.ui/java_string=255,198,0
-/instance/org.eclipse.wst.jsdt.ui/org.eclipse.jface.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.jface.textfont=1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
 /instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.internal.ui.navigator.layout=1
 /instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.editor.tab.width=
 /instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.formatterprofiles.version=11
