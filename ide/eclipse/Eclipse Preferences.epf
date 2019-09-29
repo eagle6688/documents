@@ -1,4 +1,4 @@
-#Sun Sep 29 15:48:34 CST 2019
+#Sun Sep 29 15:52:22 CST 2019
 \!/=
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=29
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/month=8
@@ -2383,7 +2383,6 @@
 /instance/org.eclipse.jst.server.tomcat.core/locationorg.eclipse.jst.server.tomcat.runtime.90=D\:/Program Files/Apache/tomcat
 /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation=D\:\\Softwares\\Languages\\Java\\org.eclipse.m2e.lifecyclemapping/lifecycle-mapping-metadata.xml
 /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime=maven
-/instance/org.eclipse.m2e.core/eclipse.m2.downloadJavadoc=true
 /instance/org.eclipse.m2e.core/eclipse.m2.problem.notCoveredMojoExecution=ignore
 /instance/org.eclipse.m2e.core/eclipse.m2.runtimes=maven
 /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/maven/location=D\:\\Program Files\\Apache\\maven
