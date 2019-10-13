@@ -1,4 +1,4 @@
-#Sat Oct 12 23:45:17 CST 2019
+#Sun Oct 13 18:01:31 CST 2019
 \!/=
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=10
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/month=9
@@ -1729,7 +1729,7 @@
 /instance/org.eclipse.egit.ui/BranchProjectTracker__D\:\\Work\\eservice-commercial\\Commercial\\commercial.cornjob\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>/</project>\r\n</projects>
 /instance/org.eclipse.egit.ui/BranchProjectTracker__D\:\\Work\\eservice-commercial\\Commercial\\commercial.ms.usercustomerrelation\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>/</project>\r\n</projects>
 /instance/org.eclipse.egit.ui/BranchProjectTracker__D\:\\Work\\eservice-commercial\\Commercial\\commercial.web\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>/</project>\r\n</projects>
-/instance/org.eclipse.egit.ui/commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Update</message>\r\n<message>Update jedis queue.</message>\r\n<message>Update pom.xml in base.</message>\r\n<message>Update CatalogDao</message>\r\n<message>Update Catalog</message>\r\n<message>Fix aop issues.</message>\r\n<message>Update CatalogServiceImpl</message>\r\n<message>Update CatalogClass</message>\r\n<message>Remove useless codes.</message>\r\n<message>Update comment for ProductStatistic</message>\r\n</messages>
+/instance/org.eclipse.egit.ui/commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Update</message>\r\n<message>Implement enqueue in JedisListQueueProducer</message>\r\n<message>Update jedis queue.</message>\r\n<message>Update pom.xml in base.</message>\r\n<message>Update CatalogDao</message>\r\n<message>Update Catalog</message>\r\n<message>Fix aop issues.</message>\r\n<message>Update CatalogServiceImpl</message>\r\n<message>Update CatalogClass</message>\r\n<message>Remove useless codes.</message>\r\n</messages>
 /instance/org.eclipse.egit.ui/resourcehistory_graph_split=500,500
 /instance/org.eclipse.egit.ui/resourcehistory_rev_split=700,300
 /instance/org.eclipse.egit.ui/show_running_launch_on_checkout_warning=false
@@ -2148,6 +2148,7 @@
 /instance/org.eclipse.jdt.ui/content_assist_parameters_foreground=238,238,238
 /instance/org.eclipse.jdt.ui/content_assist_proposals_background=52,57,61
 /instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=238,238,238
+/instance/org.eclipse.jdt.ui/editor_save_participant_org.eclipse.jdt.ui.postsavelistener.cleanup=true
 /instance/org.eclipse.jdt.ui/formatter_profile=_Eclipse Java Formatter
 /instance/org.eclipse.jdt.ui/formatter_settings_version=17
 /instance/org.eclipse.jdt.ui/hoverModifierMasks=org.eclipse.jdt.ui.BestMatchHover;0;org.eclipse.jdt.internal.debug.ui.JavaDebugHover;0;org.eclipse.jdt.ui.ProblemHover;0;org.eclipse.jdt.ui.NLSStringHover;327680;org.eclipse.jdt.ui.JavadocHover;393216;org.eclipse.jdt.ui.AnnotationHover;0;org.eclipse.jdt.ui.JavaSourceHover;131072;
@@ -2185,7 +2186,7 @@
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.templates_migrated=true
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.visibility.order=B,V,R,D,
 /instance/org.eclipse.jdt.ui/outlinesortoption=T,SF,SI,SM,F,I,C,M,
-/instance/org.eclipse.jdt.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,java_bracket,java_comment_task_tag,java_default,java_doc_default,java_doc_keyword,java_doc_link,java_doc_tag,java_keyword,java_keyword_bold,java_keyword_return,java_keyword_return_bold,java_multi_line_comment,java_operator,java_single_line_comment,java_string,matchingBracketsColor,pf_coloring_argument,pf_coloring_assignment,pf_coloring_comment,pf_coloring_key,pf_coloring_value,semanticHighlighting.abstractClass.color,semanticHighlighting.abstractClass.enabled,semanticHighlighting.abstractMethodInvocation.color,semanticHighlighting.abstractMethodInvocation.enabled,semanticHighlighting.annotation.color,semanticHighlighting.annotation.enabled,semanticHighlighting.annotation.italic,semanticHighlighting.annotationElementReference.color,semanticHighlighting.annotationElementReference.enabled,semanticHighlighting.class.color,semanticHighlighting.class.enabled,semanticHighlighting.deprecatedMember.color,semanticHighlighting.deprecatedMember.enabled,semanticHighlighting.deprecatedMember.underline,semanticHighlighting.deprecatedMember.strikethrough,semanticHighlighting.enum.color,semanticHighlighting.enum.enabled,semanticHighlighting.enum.italic,semanticHighlighting.field.color,semanticHighlighting.field.enabled,semanticHighlighting.inheritedField.color,semanticHighlighting.inheritedMethodInvocation.color,semanticHighlighting.inheritedMethodInvocation.enabled,semanticHighlighting.interface.color,semanticHighlighting.interface.enabled,semanticHighlighting.localVariable.color,semanticHighlighting.localVariable.enabled,semanticHighlighting.localVariableDeclaration.color,semanticHighlighting.localVariableDeclaration.enabled,semanticHighlighting.localVariableDeclaration.bold,semanticHighlighting.method.color,semanticHighlighting.method.enabled,semanticHighlighting.methodDeclarationName.color,semanticHighlighting.methodDeclarationName.enabled,semanticHighlighting.methodDeclarationName.bold,semanticHighlighting.number.color,semanticHighlighting.number.enabled,semanticHighlighting.parameterVariable.color,semanticHighlighting.parameterVariable.enabled,semanticHighlighting.staticField.color,semanticHighlighting.staticField.enabled,semanticHighlighting.staticFinalField.color,semanticHighlighting.staticFinalField.enabled,semanticHighlighting.staticMethodInvocation.color,semanticHighlighting.staticMethodInvocation.enabled,semanticHighlighting.typeArgument.color,semanticHighlighting.typeArgument.enabled,semanticHighlighting.typeParameter.color,semanticHighlighting.typeParameter.enabled,semanticHighlighting.typeParameter.bold,semanticHighlighting.varKeyword.color,sourceHoverBackgroundColor,
+/instance/org.eclipse.jdt.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,java_bracket,java_comment_task_tag,java_default,java_doc_default,java_doc_keyword,java_doc_link,java_doc_tag,java_keyword,java_keyword_bold,java_keyword_return,java_keyword_return_bold,java_multi_line_comment,java_operator,java_single_line_comment,java_string,matchingBracketsColor,pf_coloring_argument,pf_coloring_assignment,pf_coloring_comment,pf_coloring_key,pf_coloring_value,semanticHighlighting.abstractClass.color,semanticHighlighting.abstractClass.enabled,semanticHighlighting.abstractMethodInvocation.color,semanticHighlighting.abstractMethodInvocation.enabled,semanticHighlighting.annotation.color,semanticHighlighting.annotation.enabled,semanticHighlighting.annotation.italic,semanticHighlighting.annotationElementReference.color,semanticHighlighting.annotationElementReference.enabled,semanticHighlighting.class.color,semanticHighlighting.class.enabled,semanticHighlighting.deprecatedMember.color,semanticHighlighting.deprecatedMember.enabled,semanticHighlighting.deprecatedMember.underline,semanticHighlighting.deprecatedMember.strikethrough,semanticHighlighting.enum.color,semanticHighlighting.enum.enabled,semanticHighlighting.enum.italic,semanticHighlighting.field.color,semanticHighlighting.field.enabled,semanticHighlighting.inheritedField.color,semanticHighlighting.inheritedMethodInvocation.color,semanticHighlighting.inheritedMethodInvocation.enabled,semanticHighlighting.interface.color,semanticHighlighting.interface.enabled,semanticHighlighting.localVariable.color,semanticHighlighting.localVariable.enabled,semanticHighlighting.localVariableDeclaration.color,semanticHighlighting.localVariableDeclaration.enabled,semanticHighlighting.localVariableDeclaration.bold,semanticHighlighting.method.color,semanticHighlighting.method.enabled,semanticHighlighting.methodDeclarationName.color,semanticHighlighting.methodDeclarationName.enabled,semanticHighlighting.methodDeclarationName.bold,semanticHighlighting.number.color,semanticHighlighting.number.enabled,semanticHighlighting.parameterVariable.color,semanticHighlighting.parameterVariable.enabled,semanticHighlighting.staticField.color,semanticHighlighting.staticField.enabled,semanticHighlighting.staticFinalField.color,semanticHighlighting.staticFinalField.enabled,semanticHighlighting.staticMethodInvocation.color,semanticHighlighting.staticMethodInvocation.enabled,semanticHighlighting.typeArgument.color,semanticHighlighting.typeArgument.enabled,semanticHighlighting.typeParameter.color,semanticHighlighting.typeParameter.enabled,semanticHighlighting.typeParameter.bold,semanticHighlighting.varKeyword.color,
 /instance/org.eclipse.jdt.ui/pf_coloring_argument=221,40,103
 /instance/org.eclipse.jdt.ui/pf_coloring_assignment=217,232,247
 /instance/org.eclipse.jdt.ui/pf_coloring_comment=128,128,128
@@ -2242,7 +2243,7 @@
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.color=191,164,164
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.varKeyword.color=204,120,50
-/instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor=68,68,68
+/instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor=47,47,47
 /instance/org.eclipse.jdt.ui/sp_cleanup.add_default_serial_version_id=true
 /instance/org.eclipse.jdt.ui/sp_cleanup.add_generated_serial_version_id=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.add_missing_annotations=true
@@ -2294,6 +2295,7 @@
 /instance/org.eclipse.jdt.ui/sp_cleanup.sort_members=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.sort_members_all=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_anonymous_class_creation=false
+/instance/org.eclipse.jdt.ui/sp_cleanup.use_autoboxing=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_blocks=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_blocks_only_for_return_and_throw=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_lambda=true
@@ -2302,6 +2304,7 @@
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_this_for_non_static_field_access_only_if_necessary=true
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_this_for_non_static_method_access=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_this_for_non_static_method_access_only_if_necessary=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.use_unboxing=false
 /instance/org.eclipse.jdt.ui/spelling_ignore_ampersand_in_properties=true
 /instance/org.eclipse.jdt.ui/spelling_ignore_digits=true
 /instance/org.eclipse.jdt.ui/spelling_ignore_java_strings=true
