@@ -55,7 +55,6 @@
 /instance/org.eclipse.egit.core/core_gpg_signer=gpg
 /instance/org.eclipse.egit.core/core_ssh_default_agent=\\\\.\\pageant
 /instance/org.eclipse.egit.ui/HistoryView_VerifySignatures=true
-/instance/org.eclipse.egit.ui/commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>ZOOM-766576 Correct permission for two APIs</message>\r\n<message>ZOOM-766576 Filter outbound caller id for Client API</message>\r\n<message>ZOOM-768791 Remove duplicated judgement for VDI</message>\r\n<message>ZOOM-768791 Optimize sequence of VDI judgement before getUserSipInfo</message>\r\n<message>ZOOM-739607 Uppercase first char</message>\r\n<message>ZOOM-739607 Rename OP flag asked by PM</message>\r\n<message>ZOOM-766576 Optimize filter outbound caller id phone number list</message>\r\n<message>ZOOM-766576 Finish PBX Web part</message>\r\n<message>ZOOM-766576 Add OP configuration and fix an start issue</message>\r\n<message>ZOOM-766576 Update mapper and add two properties in Account</message>\r\n</messages>
 /instance/org.eclipse.egit.ui/resourcehistory_graph_split=500,500
 /instance/org.eclipse.egit.ui/resourcehistory_rev_split=700,300
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=
