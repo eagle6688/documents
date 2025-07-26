@@ -1,0 +1,8 @@
+# Java Coding Guidelines - Cursor Rules
+
+## Programming Specification
+
+### 1. Table design
+
+1. **Naming**: Use snake_case for table and column names
+2. **Indexes**: Create appropriate indexes for query performance

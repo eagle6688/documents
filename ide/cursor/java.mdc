@@ -1,0 +1,175 @@
+# Java Coding Guidelines - Cursor Rules
+
+## Programming Specification
+
+### 1 Naming Conventions
+
+#### 1.1 Common Naming Conventions
+
+1. **Method and Variable Names**: Use lowerCamelCase for methods, parameters, member variables, and local variables.
+
+   >Example: `getUserById()`, `localValue`, `inputUserId`
+
+#### 1.2 Package Naming Conventions
+
+1. Use lowercase, single word after each dot, singular format
+
+   > Example: `com.alibaba.open.util`
+
+#### 1.3 Class Naming Conventions
+
+1. **Class**: Use UpperCamelCase for class names. Class names should be nouns except for domain models (DO, BO, DTO, VO, etc.)
+  
+   > Example: `UserService`, `OrderDO`, `HtmlDTO`, `XmlService`
+
+2. **Abstract Classes**: Must start with `Abstract` or `Base`
+
+   > Example: `AbstractService`, `BaseController`
+
+3. The pattern name is recommended to be included in the class name if any design pattern is used
+
+   > Example: `public class OrderFactory`, `public class LoginProxy`, `public class ResourceObserver`
+
+4. **Exception Classes**: Must end with `Exception`
+  
+   > Example: `BusinessException`, `ValidationException`
+
+5. **Test Classes**: Must end with `Test`
+  
+   > Example: `UserServiceTest`, `OrderControllerTest`
+
+6. **Service/DAO Implementation**: Must end with `Impl`
+  
+   > Example: `UserServiceImpl`, `OrderDAOImpl`
+
+7. **Enumeration Classes**: Name should end with Enum. Its members should be spelled out in upper case words, separated by underlines
+
+#### 1.4 Method Naming Conventions
+
+1. **Service/DAO Layer Methods**:
+   - `get` prefix for single object retrieval
+   - `list` prefix for multiple objects
+   - `count` prefix for statistical methods
+   - `save` prefix for data persistence
+   - `delete` prefix for data removal
+   - `update` prefix for data updates
+
+2. **Interface Methods**: Do not add `public` modifier for simplicity
+
+#### 1.5 Variable Naming Conventions
+
+1. **Constants**: Use UPPER_SNAKE_CASE for constants
+  
+   > Example: `MAX_STOCK_COUNT`, `DEFAULT_TIMEOUT`
+
+2. **Array Declarations**: Brackets should be part of the type
+   
+   > Example: `String[] args`, `int[] numbers`
+
+3. **Boolean Variables**: Do NOT prefix with 'is' to avoid serialization issues
+  
+   > Example: `boolean success`, `boolean enabled`
+
+### 2. Usage
+
+#### 2.1 Enum Usage
+
+1. **Enums**: Use enums for fixed sets of values
+
+#### 2.2 Collection Usage
+
+1. **Initial Capacity**: Specify initial capacity for collections when size is known
+2. **Generic Types**: Always use generic types, avoid raw types
+3. **Iteration**: Use enhanced for loops when possible
+4. **Null Checks**: Always check for null before accessing collections
+
+### 3. Code Formatting
+
+1. **Indentation**: Use 4 spaces for indentation
+2. **Braces**: Opening brace on the same line, closing brace on its own line
+3. **Spacing**: One space around operators, after commas, after keywords
+
+### 4. OOP Rules
+
+1. **Static member**: A static field or method should be directly referred to by its class name instead of its corresponding object name
+2. **Access Modifiers**: Use the most restrictive access level possible
+3. **Final Classes**: Mark utility classes as `final`
+4. **Inheritance**: Prefer composition over inheritance
+5. **Interfaces**: Keep interfaces focused and cohesive
+6. **equal**: Use `java.util.Objects#equals` to determine whether two variables are equal
+
+### 5. Concurrency
+
+1. **Thread Safety**: Use thread-safe collections when sharing between threads
+2. **Synchronization**: Use `synchronized` blocks or `ReentrantLock` appropriately
+3. **Volatile**: Use `volatile` for simple flags, use `AtomicReference` for objects
+4. **Thread Pools**: Use `ThreadPoolExecutor` instead of `Executors` factory methods
+
+### 6. Exception Handling
+
+1. **Checked Exceptions**: Handle or declare checked exceptions
+2. **Unchecked Exceptions**: Use for programming errors
+3. **Exception Messages**: Provide meaningful error messages
+4. **Resource Management**: Use try-with-resources for AutoCloseable resources
+5. **Logging**: Log exceptions with appropriate level (ERROR for system errors, WARN for business exceptions)
+
+### 7. Database
+
+1. **Transactions**: Use transactions for data consistency
+2. **Connection Management**: Use connection pools
+
+### 8. Logging
+
+1. **Log Levels**: Use appropriate log levels
+   - ERROR: System errors, exceptions
+   - WARN: Business exceptions, potential issues
+   - INFO: Important business events
+   - DEBUG: Detailed debugging information
+2. **Log Messages**: Include relevant context in log messages
+3. **Performance**: Use parameterized logging to avoid string concatenation
+
+### 9. Comments
+
+1. **JavaDoc**: Add JavaDoc for public methods and classes
+2. **Implementation Comments**: Comment complex business logic
+3. **TODO Comments**: Use TODO for incomplete implementations
+4. **Deprecated**: Mark deprecated methods with `@Deprecated` and JavaDoc
+
+### 10. Performance
+
+1. **String Concatenation**: Use `StringBuilder` for multiple concatenations
+2. **Object Creation**: Reuse objects when possible
+
+### 11. Security
+
+1. **Input Validation**: Validate all user inputs
+2. **SQL Injection**: Use prepared statements, never concatenate SQL
+3. **XSS Prevention**: Escape user input in HTML output
+4. **CSRF Protection**: Implement CSRF tokens for forms
+5. **Authentication**: Always check user permissions
+6. **Sensitive Data**: Never log sensitive information
+
+### 12. Project Structure
+
+1. **Package Organization**: Organize by feature, not by layer
+2. **Dependencies**: Minimize dependencies, use specific versions
+3. **Configuration**: Externalize configuration
+4. **Testing**: Write unit tests for business logic
+
+### 13. Best Practices
+
+1. **Null Safety**: Use `Optional` for nullable returns
+2. **Stream API**: Use Stream API for data processing
+3. **Lambda Expressions**: Use lambda expressions for simple operations
+4. **Method References**: Use method references when appropriate
+5. **Builder Pattern**: Use builder pattern for complex object construction
+6. **Factory Pattern**: Use factory pattern for object creation
+7. **Strategy Pattern**: Use strategy pattern for algorithms
+
+### 14. Testing
+
+1. **Unit Tests**: Write unit tests for all business logic
+2. **Test Naming**: Use descriptive test method names
+3. **Test Data**: Use test data builders or factories
+4. **Mocking**: Mock external dependencies
+5. **Coverage**: Aim for high test coverage (80%+)
